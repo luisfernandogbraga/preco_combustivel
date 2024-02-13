@@ -4,7 +4,7 @@
 Este projeto realiza uma análise do histórico de preços de combustíveis no Brasil, focando nos anos de 2022 e 2023. Os dados foram coletados a partir do site oficial do governo brasileiro (gov.br).
 
 ## Dados
-Os dados foram retirados do seguinte repositório no GitHub: [link para o repositório](https://github.com/luisfernando/preco_gasolina)
+Os dados foram retirados do seguinte repositório no GitHub: [link para o repositório]([https://github.com/luisfernando/preco_gasolina](https://github.com/luisfernandogbraga/preco_gasolina.git))
 
 ### Colunas do DataFrame
 - 'Estado - Sigla': Sigla do estado brasileiro.
