@@ -1,10 +1,13 @@
 # Análise do Histórico de Preços de Combustíveis no Brasil
 
 ## Descrição
-Este projeto realiza uma análise do histórico de preços de combustíveis no Brasil, focando nos anos de 2022 e 2023. Os dados foram coletados a partir do site oficial do governo brasileiro (gov.br).
+Este projeto realiza uma análise do histórico de preços de combustíveis no Brasil, focando nos anos de 2022 e 2024. Os dados foram coletados a partir do site oficial do governo brasileiro ([gov.br](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis)).
 
 ![WhatsApp-Image-2022-04-28-at-09 37 40](https://github.com/luisfernandogbraga/preco_gasolina/assets/134460985/578db87f-fe33-4247-ac25-2bb581943d1b)
 
+### Arquivo CSV
+- Você vai encontrar o arquivo csv quebrado em partes. Para se fazer a análise devisse junta-lo. 
+- No meu código, o csv_final representa o csv inteiro.
 
 ### Colunas do DataFrame
 - 'Estado - Sigla': Sigla do estado brasileiro.
