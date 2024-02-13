@@ -3,8 +3,8 @@
 ## Descrição
 Este projeto realiza uma análise do histórico de preços de combustíveis no Brasil, focando nos anos de 2022 e 2023. Os dados foram coletados a partir do site oficial do governo brasileiro (gov.br).
 
-## Dados
-Os dados foram retirados do seguinte repositório no GitHub: [link para o repositório]([https://github.com/luisfernando/preco_gasolina](https://github.com/luisfernandogbraga/preco_gasolina.git))
+![WhatsApp-Image-2022-04-28-at-09 37 40](https://github.com/luisfernandogbraga/preco_gasolina/assets/134460985/578db87f-fe33-4247-ac25-2bb581943d1b)
+
 
 ### Colunas do DataFrame
 - 'Estado - Sigla': Sigla do estado brasileiro.
@@ -20,13 +20,7 @@ Os dados foram retirados do seguinte repositório no GitHub: [link para o reposi
 - 'Unidade de Medida': Unidade de medida para o preço de venda (R$ / litro).
 - 'Bandeira': Bandeira associada à revenda.
 
-## Como Usar
-1. Clone este repositório: `git clone https://github.com/seuusuario/seurepositorio.git`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o script de análise: `python analyze_prices.py`
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
-Este projeto é distribuído sob a licença [nome da licença]. Veja o arquivo `LICENSE` para mais detalhes.
