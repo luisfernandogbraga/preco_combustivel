@@ -24,3 +24,15 @@ Este projeto realiza uma análise do histórico de preços de combustíveis no B
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
+
+## INSIGHTS
+![média de preços](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/87218e06-aed7-4407-a796-43191eb81e36)
+![GASOLINA](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/6d238575-7757-4cc1-a376-c1ef3a166b28)
+![ADITIVADA](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/86a25d51-361f-42fa-9b08-d0a31101a392)
+![GNV](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/9e07b561-b774-48a0-b3b2-bdfbb9e880d0)
+![ETANOL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/3e9e3e69-d12c-45cc-afdf-fd978bc24331)
+![DIESEL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/1d633f81-06c2-4712-a50e-bb567ff6379b)
+![DIESEL S10](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/b37493f4-25b8-4512-b7b8-f04da636b96f)
+
+
+
