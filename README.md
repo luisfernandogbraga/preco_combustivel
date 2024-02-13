@@ -1,26 +1,32 @@
-# Preço da Gasolina em Julho de 2021
+# Análise do Histórico de Preços de Combustíveis no Brasil
 
-Este é um projeto para analisar o preço da gasolina nos dez primeiros dias de julho de 2021. O objetivo é entender as variações nos preços durante esse período e explorar possíveis fatores que influenciaram essas mudanças.
+## Descrição
+Este projeto realiza uma análise do histórico de preços de combustíveis no Brasil, focando nos anos de 2022 e 2023. Os dados foram coletados a partir do site oficial do governo brasileiro (gov.br).
 
-## Como executar o projeto
+## Dados
+Os dados foram retirados do seguinte repositório no GitHub: [link para o repositório](https://github.com/seuusuario/seurepositorio)
 
-1. Faça o download ou clone este repositório para a sua máquina local.
-2. Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
-3. Instale as dependências do projeto executando o comando `pip install -r requirements.txt`.
-4. Execute o projeto com o comando `python main.py`.
+### Colunas do DataFrame
+- 'Estado - Sigla': Sigla do estado brasileiro.
+- 'Municipio': Município onde a coleta de dados foi realizada.
+- 'Revenda': Nome da revenda (posto de gasolina ou distribuidora).
+- 'CNPJ da Revenda': CNPJ da revenda.
+- 'Nome da Rua': Nome da rua onde a revenda está localizada.
+- 'Numero Rua': Número do endereço da revenda.
+- 'Bairro': Bairro onde a revenda está localizada.
+- 'Produto': Tipo de combustível (Gasolina, Etanol, Diesel, Gasolina Aditivada, etc.).
+- 'Data da Coleta': Data em que os preços foram coletados.
+- 'Valor de Venda': Valor de venda do combustível na data da coleta.
+- 'Unidade de Medida': Unidade de medida para o preço de venda (R$ / litro).
+- 'Bandeira': Bandeira associada à revenda.
 
+## Como Usar
+1. Clone este repositório: `git clone https://github.com/seuusuario/seurepositorio.git`
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Execute o script de análise: `python analyze_prices.py`
 
-## Contribuição
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Se você quiser contribuir para este projeto, siga os passos abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch com a sua feature (`git checkout -b feature/nome-da-feature`).
-3. Commit suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
-4. Envie suas mudanças para o seu fork (`git push origin feature/nome-da-feature`).
-5. Abra um pull request neste repositório.
-
-
-## Resultados
-
- Incluem gráficos mostrando a evolução do preço da gasolina ao longo dos dez primeiros dias de julho de 2021, tabelas mostrando estatísticas sobre esses preços e outras informações relevantes. 
+## Licença
+Este projeto é distribuído sob a licença [nome da licença]. Veja o arquivo `LICENSE` para mais detalhes.
