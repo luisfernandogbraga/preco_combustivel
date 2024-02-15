@@ -7,20 +7,19 @@ Este projeto realiza uma análise do histórico de preços de combustíveis no B
 
 ### Arquivo CSV
 - Você vai encontrar o arquivo csv quebrado em partes. Para se fazer a análise devisse junta-lo. 
-- No meu código, o csv_final representa o csv inteiro.
+- No meu código, o anp.csv representa o csv inteiro.
+- Você terá que juntá-lo, para poder fazer as análises
 
 ### Colunas do DataFrame
 - 'Estado - Sigla': Sigla do estado brasileiro.
 - 'Municipio': Município onde a coleta de dados foi realizada.
 - 'Revenda': Nome da revenda (posto de gasolina ou distribuidora).
-- 'CNPJ da Revenda': CNPJ da revenda.
 - 'Nome da Rua': Nome da rua onde a revenda está localizada.
 - 'Numero Rua': Número do endereço da revenda.
 - 'Bairro': Bairro onde a revenda está localizada.
-- 'Produto': Tipo de combustível (Gasolina, Etanol, Diesel, Gasolina Aditivada, etc.).
+- 'Combustível': Tipo de combustível (Gasolina, Etanol, Diesel, Gasolina Aditivada, etc.).
 - 'Data da Coleta': Data em que os preços foram coletados.
 - 'Valor de Venda': Valor de venda do combustível na data da coleta.
-- 'Unidade de Medida': Unidade de medida para o preço de venda (R$ / litro).
 - 'Bandeira': Bandeira associada à revenda.
 
 
