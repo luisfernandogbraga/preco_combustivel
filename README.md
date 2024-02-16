@@ -10,7 +10,8 @@ Este projeto realiza uma análise do histórico de preços de combustíveis no B
 ![mapa-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/e62ecc45-e1e2-447e-9ff0-ab9cc0d18b1c)
 
 ## ESTADOS
-![mapa-do-brasil-legendado-pintado-regioes-1000x1000](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/15aca342-eae8-49d0-9f75-c2d45db32aee)
+![regioes-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/e1817bce-6fe7-475a-9402-862f57a7e48b)
+
 
 ### Arquivo CSV
 - Você vai encontrar o arquivo csv quebrado em partes. Para se fazer a análise devisse junta-lo. 
@@ -37,7 +38,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## INSIGHTS
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/31337219-15ed-47eb-871b-8dcb8268efff)
 ![GASOLINA](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/6d238575-7757-4cc1-a376-c1ef3a166b28)
-![regioes-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/101efd0f-405e-414f-9dbc-732ddbb21fef)
 ![GNV](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/9e07b561-b774-48a0-b3b2-bdfbb9e880d0)
 ![ETANOL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/3e9e3e69-d12c-45cc-afdf-fd978bc24331)
 ![DIESEL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/1d633f81-06c2-4712-a50e-bb567ff6379b)
