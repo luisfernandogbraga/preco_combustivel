@@ -5,6 +5,13 @@ Este projeto realiza uma análise do histórico de preços de combustíveis no B
 
 ![WhatsApp-Image-2022-04-28-at-09 37 40](https://github.com/luisfernandogbraga/preco_gasolina/assets/134460985/578db87f-fe33-4247-ac25-2bb581943d1b)
 
+### O Brasil está dividido em :
+## REGIOES
+![mapa-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/e62ecc45-e1e2-447e-9ff0-ab9cc0d18b1c)
+
+## ESTADOS
+![mapa-do-brasil-legendado-pintado-regioes-1000x1000](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/15aca342-eae8-49d0-9f75-c2d45db32aee)
+
 ### Arquivo CSV
 - Você vai encontrar o arquivo csv quebrado em partes. Para se fazer a análise devisse junta-lo. 
 - No meu código, o anp.csv representa o csv inteiro.
@@ -30,13 +37,19 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## INSIGHTS
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/31337219-15ed-47eb-871b-8dcb8268efff)
 ![GASOLINA](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/6d238575-7757-4cc1-a376-c1ef3a166b28)
-![ADITIVADA](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/86a25d51-361f-42fa-9b08-d0a31101a392)
+![regioes-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/101efd0f-405e-414f-9dbc-732ddbb21fef)
 ![GNV](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/9e07b561-b774-48a0-b3b2-bdfbb9e880d0)
 ![ETANOL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/3e9e3e69-d12c-45cc-afdf-fd978bc24331)
 ![DIESEL](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/1d633f81-06c2-4712-a50e-bb567ff6379b)
 ![DIESEL S10](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/b37493f4-25b8-4512-b7b8-f04da636b96f)
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/05b20c66-0210-4924-b696-77da7cc200cb)
-![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/b2e69ee7-261c-4230-a859-8810158f962b)
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/b1bae1b3-e57e-4060-8b73-b7f1b5d7888c)
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/cfb39359-5532-461f-9eb5-a1eb8eb45168)
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/59ac4d55-6981-4281-81cd-aced6ba7b6fa)
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/e918fa09-3d5f-4397-b03f-fa8c556c2e5d)
+
+
+
 
 
 
