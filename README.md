@@ -51,7 +51,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/cb9cf667-b70d-4d4c-a8ba-2facc641f440)
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/0858aa46-b999-488b-8148-0ba630f62c13)
 ![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/cc52013d-7fae-459e-b150-8248a8b21f57)
-
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/736c8fad-6582-437e-b7af-5015a3fc9abe)
+![1](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/a38e8a9b-7e6e-48a7-8309-cfe0a3c0c425)
 
 
 
