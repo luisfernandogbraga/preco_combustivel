@@ -12,7 +12,7 @@ Este projeto realiza uma análise do histórico de preços de combustíveis no B
 ## ESTADOS
 ![regioes-brasil](https://github.com/luisfernandogbraga/preco_combustivel/assets/134460985/e1817bce-6fe7-475a-9402-862f57a7e48b)
 
-
+## Foco do Projeto é gerar Insights significativos.
 ### Arquivo CSV
 - Você vai encontrar o arquivo csv quebrado em partes. Para se fazer a análise devisse junta-lo. 
 - No meu código, o anp.csv representa o csv inteiro.
